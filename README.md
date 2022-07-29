@@ -1,7 +1,7 @@
 - 👀 Olá! Eu sou o Diego Borba!
 
 - 👨‍💻 Hoje trabalho com Backend
-- 🌱 Estudando PHP e Java
+- 🌱 Estudando PHP
 - 😀 Ele/Dele
 
 <div align="center">
